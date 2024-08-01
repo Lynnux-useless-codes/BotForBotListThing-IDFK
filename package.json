@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tryforge/forge.db": "github:tryforge/forgedb#old",
+    "@tryforge/forge.topgg": "github:tryforge/ForgeTopGG#dev",
+    "@tryforge/forgescript": "github:tryforge/forgescript#dev",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "sqlite3": "^5.1.7",
+  }
+}
